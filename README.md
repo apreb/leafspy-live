@@ -183,6 +183,13 @@ It is also possible to query direclty the DB for a paricular trip using MQTT. Ev
 
 ![](https://lh3.googleusercontent.com/weGgL_NsmD23zD0fcDp-z6V2gwfpB3AD8UXxTl0wG2nspBxAGKko7pMexRedKhtxsCCxdoP868PUlWcxwuT239dwYoEnUjbpVLLuV3mQIXEHRHPJhvv8xAVI5q-dFG8V5pULf4XThAtpYkRm9-RfoChpCgE78GGO5GbzhxIAuVcg_ks8_HkgLbaa3jEa4V-kBpXC1pqNX4Ncz7HVajNIRUgwNEpj7djv18ir96sPN_fCtRSTCqY24ISiGC53X8vvrEJqtuigis8gQUCVKU6doythrb0KLZxUafXGm-xpZQ3WDb_e37Z8rMIBTCtoMG0Pl1F0etB2hcs2MExzwTH1x7_F7W29cKA4mUcoqysKVJu3ufz3HpIlZi9i1bIsZHAjFUVFjz-nrvvjKr4loH1BjgmSux7eXwPu58_UHG-uqK-o7FOPK_GnYAyx6t7PNff-q6nIrEKkd56uyyIi0Diom0P2i6UedrYYfWh6boCmSl2z7FfGT-M-RHVv-GxlpwTtB7SNHofFCuE3amFyksFvDViVmTBZqk_jP93nuHpvE1KEfHSoPnCug9awYmO50OKpIxyVwCAQp9AIQ_v57pO7D9i7vxwZeUyV1AIty-GwK710d3APGwBHYWPo-hOTBLpuEygh90SacjHTzCalRedPjHrJ-ZxJzx_zENE=w658-h562-no)
 
-There are two pages, the first shows the raw data coming from the APP. The second page shows a map and statistics associated with trips. The map can go live to follow the real time trip or can be used to browse trip history.
+Two pages are created, the first shows the raw data coming from the APP. The second page shows a map and statistics associated with trips. The map can go live to follow the real time trip or can be used to browse trip history.
 The URL of the LiveMap template need to be replaced with the real IP of the rasberry Pi.
 
+To access the UI, browse to `http://ip_of_rpi:1880/ui`
+
+Here are som early examples of the Leaf Spy Live in action:
+
+[Live Map #1](https://www.youtube.com/watch?v=LtvB6V47V2A)
+
+[Live Map #2](https://youtu.be/yWC1Gfmsmf4)
