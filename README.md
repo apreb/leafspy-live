@@ -180,7 +180,16 @@ The URL of the LiveMap template need to be replaced with the real IP of the rasb
 
 To access the UI, browse to `http://ip_of_rpi:1880/ui`
 
-Here are som early examples of the Leaf Spy Live in action:
+
+User interface pictures:
+
+Live Trip             |  Live Info
+:-------------------------:|:-------------------------:
+![](https://lh3.googleusercontent.com/GavC3tpJnyBjLfkexw_fxuoFwAFV6-40QdLeAjyJXg_XHWqOKPsBgd2sSGIU0_Ib4apKYzqWc5iCWbdrdXCJIFitrhxZu86C4Q-Ki0Hc-YAMb1kenxt8liaBuZGMoTojhTYfr1slXQ=w344-h695-no)  |  ![](https://lh3.googleusercontent.com/Lax3EkdPKx15suZ2r4ce2-2u80-VmO5drZAbAW1ZrhtLK4TERxOyqKns9zpL8Rz-Mk6SK2Ts88LXeDBW-VkCqP1WVKc0szm5VRKK7pAm7BnN9dV1PulFlVBWSe2AZn-DIm1QhqliQw=w342-h650-no))
+
+
+
+Some early examples of the Leaf Spy Live in action:
 
 [Live Map #1](https://www.youtube.com/watch?v=LtvB6V47V2A)
 
