@@ -1,11 +1,3 @@
----
-title: Leaf Spy Live
-date: '29-10-2017 11:00'
-header_image: '0'
-subheading: ''
-description: 'Leaf Spy Live'
-author: AP
----
 
 ![](https://lh3.googleusercontent.com/CsLHWdHVCAt-KWosWwc9-U9d_5u-2AwKIA5Yspvs9L9l-1WvFBqrrtVBkw766DT01YPL80Mn1mgPjrkYWK_gCjqswhHi05O1NKdt_l00czVyBYA4BrTskUvk5D7nyN4kc3E-RCVl149SK3_fdVHPJplLq_2GjJcuKt6h0ktB3FyIUtuOjC8PyMH4-K5uX3bKFcKoumoq92WeG-AB8poxMcXqRfYeDrydJax_R_i7oFCGrDGi88ssbCChICJ-oxM3z0g37LO5c0QWPof7TH2AJ6am_bEZpnZdi4LaTfOMDGxyJgZpse7iBtqvUNpb9eAHG-7IC5I740IGKe0TGcp3gRwolPkYuHZgZhsKhKR7XFroSdavnfZ8bW1w4QVhXre6HsIMg0rqWK5tfsKEIGk-EUpfqbCIKrikobcNTJEdiouO81z1Ibav5dGu_yxgIDUth9mbsKnwRXmIJOCilmNo2Cj_W9uXMuldJSa2qf7pGKrXn3pSJ7G_pV5ynugSy6i1FVnfCLVzi9y2tYgIWU-lMYxn1jkkOjAr5jDDIp55KheO100zPxxJEgW6-G9hvHKG9qmwRfKUeugD02OTfrPkMlgM56O9-zY2PW0V50qW1Q9_nNHfwXSyY1cyLun8G80mv2_OLeZUlJI3NEfUZT34cJtkkphr7SnSZc4=w874-h233-no)
 
